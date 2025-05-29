@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "titulo": "Estudiar variables de entorno",
+        "descripcion": "Leer documentaci\u00f3n sobre configuraci\u00f3n de entorno en sistemas operativos.",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748560407,
+        "titulo": "matematicas",
+        "descripcion": "2+3-10",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748560472,
+        "titulo": "espa\u00f1ol",
+        "descripcion": "cuantos tiempos verbales existen  ",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748560497,
+        "titulo": "quimica",
+        "descripcion": "que es el uranio",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748560584,
+        "titulo": "zaza",
+        "descripcion": "consume una Oz de ex\u00f3tica en una noche",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748560627,
+        "titulo": "historia",
+        "descripcion": "quien es el pirata de culiacan",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748560682,
+        "titulo": "ciencias sociales",
+        "descripcion": "estuvo bien lo que hizo el fofo marques?",
+        "estado": "pendiente"
+    }
+]
